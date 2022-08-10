@@ -24,9 +24,6 @@
 
 I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-I'm an iOS Developer with good experience in building high-quality iOS applications.
-
-Skills: Apple Xcode / Swift / SwiftUI / Apple UIKit Framework / Design Pattern 
 
 - :telescope: I’m working as a Software Engineer for iOS/MacOS applications.
 
